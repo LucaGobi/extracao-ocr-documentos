@@ -1,0 +1,27 @@
+# === Dados gerados pela execucao (NUNCA versionar) ===
+DOCUMENTOS_PROCESSADOS/
+LOTE_DOCUMENTOS_*.docx
+temp_work.png
+*.docx
+*.png
+
+# === Credenciais / configuracao local ===
+.env
+config.py
+config.json
+
+# === Python ===
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# === Selenium / webdriver-manager ===
+.wdm/
+chromedriver*
+
+# === IDEs / SO ===
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store

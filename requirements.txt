@@ -1,0 +1,7 @@
+selenium
+webdriver-manager
+pytesseract
+Pillow
+google-generativeai
+python-docx
+pyperclip
