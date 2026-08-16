@@ -96,7 +96,7 @@ Por fim, o Lanczos melhora a definição das bordas, mas não elimina os sombrea
 ### Instalação
 
 ```bash
-git clone https://github.com/SEU-USUARIO/extracao-ocr-documentos.git
+git clone https://github.com/LucaGobi/extracao-ocr-documentos.git
 cd extracao-ocr-documentos
 pip install -r requirements.txt
 ```
