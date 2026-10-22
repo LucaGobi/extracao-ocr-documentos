@@ -40,7 +40,7 @@ Gera documento Word (.docx) consolidado
 
 ### Prints e uso de OCR
 
-O documento com as especificações era renderizado como uma iamgem na página, não havia arquivo para baixar e processar com uma biblioteca de leitura específica do formato e o texto não era um elemento no DOM da pagina. Assim tive que capturar a tela e usar reconhecimento de imagem, já a própria pagina tratava as informacões como imagem, não como um objeto textual no DOM ou como arquivo.
+O documento com as especificações era renderizado como uma imagem na página, não havia arquivo para baixar e processar com uma biblioteca de leitura específica do formato e o texto não era um elemento no DOM da pagina. Assim tive que capturar a tela e usar reconhecimento de imagem, já que a própria pagina tratava as informacões como imagem, não como um objeto textual no DOM ou como arquivo.
 
 ### Leitura dos links pela área de transferência
 
